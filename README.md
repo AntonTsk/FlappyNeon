@@ -16,7 +16,6 @@ Game Graphics:
 Background Sprites for the game I downloaded from Unity Asset Store and remade it for my game in Adobe Photoshop. And also UI elements are made in Photoshop from scratch.
 It was a good experience. I plunged into the world of game development, learned the features of game development.
 
-The creation process will be explained on my YouTube Channel  https://www.youtube.com/channel/UCbaKHp8FCfmidHy8GoBM7nQ/featured
 
 ![alt text](/Screenshots/Character.png?raw=true "Blog")
 ![alt text](/Screenshots/screenshot1.jpg?raw=true "Blog")
