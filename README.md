@@ -1,6 +1,6 @@
 # FlappyNeon
 
-Android Game "Flappy Neon" made with Unity Engine. A simple game, 
+Android Game "Flappy Neon" made with Unity Engine. 
 Unity was chosen as the game engine, as it is a powerful cross-platform game engine and it supports C # scripting.
 
 Game is available:
